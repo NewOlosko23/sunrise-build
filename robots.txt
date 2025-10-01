@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sunrise-build.onrender.com/sitemap.xml
+
+# Disallow admin area
+Disallow: /admin
+
+# Allow all other content
+Allow: /donors
+Allow: /terms-of-use
+Allow: /privacy-policy
+
+# Crawl delay (optional)
+Crawl-delay: 1

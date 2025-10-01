@@ -1,0 +1,26 @@
+{
+  "name": "Sunrise Girls Centre Community Organization",
+  "short_name": "Sunrise Girls Centre",
+  "description": "Empowering vulnerable girls and women in Kenya through comprehensive community development programs that promote health, education, and economic independence.",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#F4A700",
+  "background_color": "#F6EDE2",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["community", "nonprofit", "education", "health"]
+}
